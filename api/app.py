@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from langchain.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langserve import add_routes
