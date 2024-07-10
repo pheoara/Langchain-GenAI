@@ -1,2 +1,2 @@
 # Langchain-GenAI
-Langchain Projects
+Langchain Projects including simple and advanced RAGs Application, made using Streamlit
